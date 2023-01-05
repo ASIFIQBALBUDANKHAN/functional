@@ -1,2 +1,2 @@
 # functional
-java 8 examples
+Adding few java 8 examples
